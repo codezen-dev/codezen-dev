@@ -60,7 +60,7 @@
 ## 📬 联系方式
 
 - GitHub：[github.com/codezen-dev](https://github.com/codezen-dev)
-- 邮箱：lizhenweijie@gmail.com
+- 邮箱：
 - Notion主页
 
 ---
